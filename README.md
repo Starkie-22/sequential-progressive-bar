@@ -1,1 +1,1 @@
-# sequential-progressive-bar
+# progressive-bar
